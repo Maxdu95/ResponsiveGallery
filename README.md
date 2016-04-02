@@ -5,4 +5,4 @@ En fonction de la taille de la fênetre, la page HTML se présentera différemen
 
 Fenêtre agrandie :
 </br>
-![alt tag](http://Document/gallery1.png)
+![alt tag](https://cloud.githubusercontent.com/assets/17911035/14225445/7be8fc0a-f8c3-11e5-9061-aeb7ba2ffc1c.png)
